@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+nand gate 
 Explain how your project works
 
 ## How to test
