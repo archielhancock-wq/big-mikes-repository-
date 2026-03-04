@@ -1,4 +1,4 @@
-<!---
+puts <!---
 
 This file is used to generate your project datasheet. Please fill in the information below and delete any unused
 sections.
@@ -12,9 +12,9 @@ nand gate
 Explain how your project works
 
 ## How to test
-
+inputs to test 
 Explain how to use your project
 
 ## External hardware
-
+LEDs
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
